@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 from openai import OpenAI
 
-api_key = "<YOUR API KEY HERE>"
+api_key = ""
 
 client = OpenAI(api_key=api_key)
 
